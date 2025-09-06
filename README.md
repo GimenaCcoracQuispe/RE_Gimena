@@ -42,13 +42,4 @@ Navega por el explorador de SQL:
 
 <img width="625" height="352" alt="Captura de pantalla 2025-09-03 211836" src="https://github.com/user-attachments/assets/4c29e7f0-e6d3-472c-b4b4-5ade083a279e" />
 
----
 
-## ✨ **Extras creativos**
-- 📌 **Íconos** en cada paso (para hacerlo más visual).  
-- ⚠️ **Consejo de seguridad:** nunca subas tu contraseña al repositorio.  
-- 🚀 **Ejemplo de primer query:**  
-
-```sql
-SELECT name, database_id, create_date  
-FROM sys.databases;
